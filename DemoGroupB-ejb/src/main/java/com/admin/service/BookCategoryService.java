@@ -20,13 +20,7 @@ import javax.ejb.Local;
 import java.util.List;
 @Local
 public interface BookCategoryService {
-   /* boolean addBook(BookCategoryDto bookDto);
-    boolean updateBook(BookCategoryDto bookDto);
-    boolean deleteBook(BookCategoryDto bookDto);
-    BookCategoryDto getBook(long id);
-     List<BookDto> getAllBooks();
-*/
-     public boolean save(BookCategoryDto bookDto);
+   public boolean save(BookCategoryDto bookDto);
 
     boolean delete(BookCategoryDto bookDto);
     

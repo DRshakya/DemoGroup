@@ -15,7 +15,7 @@ import java.util.List;
  * @author Administrator
  */
 public interface BookGroupService {
-     public boolean save(BookGroupDto bookGroupDto);
+    public boolean save(BookGroupDto bookGroupDto);
 
     boolean delete(BookGroupDto bookGroupDto);
     

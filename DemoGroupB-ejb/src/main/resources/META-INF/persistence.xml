@@ -10,6 +10,7 @@
     <class>com.payrollSystem.entity.common.Branch</class>
     <class>com.payrollSystem.entity.common.BookCategory</class>
     <class>com.payrollSystem.entity.common.BookGroup</class>
+    <class>com.payrollSystem.entity.common.BookGenre</class>
     <class>com.payrollSystem.entity.common.BookSubGroup</class>
     <class>com.payrollSystem.entity.common.College</class>
     <class>com.payrollSystem.entity.common.Department</class>
