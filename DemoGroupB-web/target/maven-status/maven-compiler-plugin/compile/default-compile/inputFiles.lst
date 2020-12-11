@@ -8,6 +8,7 @@ F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\Mobil
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\bookGenre\BookGenreDataModel.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\department\DepartmentDataModelJsf.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\bookSubGroup\BookSubGroupDataModel.java
+F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\issueRuleSetting\IssueRuleSettingBean.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\PasswordLengthValidator.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\bookGroup\BookGroupDataModel.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\designation\DesignationDataModelJsf.java
@@ -16,6 +17,7 @@ F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\MinAn
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\ConfirmNormalPasswordValidator.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\bookCategory\BookCategoryDataModel.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\BlankSpaceValidator.java
+F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\issueRuleSetting\IssueRuleSettingDataModel.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\ConfirmPasswordValidator.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\department\DepartmentBeanJsf.java
 F:\internship\DemoGroupB\DemoGroupB-web\src\main\java\com\admin\validators\DateRangeValidator.java

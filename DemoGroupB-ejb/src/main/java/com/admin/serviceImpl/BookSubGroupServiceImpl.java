@@ -16,11 +16,9 @@ import com.admin.dto.CollegeDto;
 import com.admin.mapper.BookGroupMapper;
 import com.admin.mapper.BookSubGroupMapper;
 import com.admin.service.BookSubGroupService;
-import com.payrollSystem.entity.common.BookGroup;
 import com.payrollSystem.entity.common.BookSubGroup;
 import java.util.Date;
 import java.util.List;
-import java.util.stream.Collectors;
 import javax.ejb.EJB;
 import javax.ejb.Stateless;
 

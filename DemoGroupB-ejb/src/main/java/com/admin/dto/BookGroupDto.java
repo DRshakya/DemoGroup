@@ -17,7 +17,7 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class BookGroupDto extends AbstractProfileDto {
+public class BookGroupDto extends AbstractProfileDto   {
     
     
 }

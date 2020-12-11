@@ -15,6 +15,7 @@
     <class>com.payrollSystem.entity.common.College</class>
     <class>com.payrollSystem.entity.common.Department</class>
     <class>com.payrollSystem.entity.common.Designation</class>
+    <class>com.payrollSystem.entity.common.IssueRuleSetting</class>
     
     
     <class>com.payrollSystem.entity.common.District</class>
